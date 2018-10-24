@@ -41,3 +41,7 @@ sysinfo.txt
 *.apk
 *.unitypackage
 *.DS_Store
+
+*.jpg
+
+DGM2210_Assignment1/Assets/Models/Materials/
