@@ -1,0 +1,223 @@
+fileFormatVersion: 2
+guid: 30d98bd7603795545a36abee50ca206e
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: KitCat_Body
+    100002: KitCat_Bowtie
+    100004: KitCat_Clock1
+    100006: KitCat_Clock2
+    100008: KitCat_ClockCenter
+    100010: KitCat_ClockFace
+    100012: KitCat_Head
+    100014: KitCat_LeftEye
+    100016: KitCat_LeftFoot
+    100018: KitCat_LeftPaw
+    100020: KitCat_Nose
+    100022: KitCat_RightEye
+    100024: KitCat_RightFoot
+    100026: KitCat_RightPaw
+    100028: KitCat_Tail
+    100030: //RootNode
+    400000: KitCat_Body
+    400002: KitCat_Bowtie
+    400004: KitCat_Clock1
+    400006: KitCat_Clock2
+    400008: KitCat_ClockCenter
+    400010: KitCat_ClockFace
+    400012: KitCat_Head
+    400014: KitCat_LeftEye
+    400016: KitCat_LeftFoot
+    400018: KitCat_LeftPaw
+    400020: KitCat_Nose
+    400022: KitCat_RightEye
+    400024: KitCat_RightFoot
+    400026: KitCat_RightPaw
+    400028: KitCat_Tail
+    400030: //RootNode
+    2100000: Details1_MAT
+    2100002: Body_MAT
+    2100004: ClockFace_MAT
+    2100006: Head_MAT
+    2100008: Eyes_MAT
+    2300000: KitCat_Body
+    2300002: KitCat_Bowtie
+    2300004: KitCat_Clock1
+    2300006: KitCat_Clock2
+    2300008: KitCat_ClockCenter
+    2300010: KitCat_ClockFace
+    2300012: KitCat_Head
+    2300014: KitCat_LeftEye
+    2300016: KitCat_LeftFoot
+    2300018: KitCat_LeftPaw
+    2300020: KitCat_Nose
+    2300022: KitCat_RightEye
+    2300024: KitCat_RightFoot
+    2300026: KitCat_RightPaw
+    2300028: KitCat_Tail
+    3300000: KitCat_Body
+    3300002: KitCat_Bowtie
+    3300004: KitCat_Clock1
+    3300006: KitCat_Clock2
+    3300008: KitCat_ClockCenter
+    3300010: KitCat_ClockFace
+    3300012: KitCat_Head
+    3300014: KitCat_LeftEye
+    3300016: KitCat_LeftFoot
+    3300018: KitCat_LeftPaw
+    3300020: KitCat_Nose
+    3300022: KitCat_RightEye
+    3300024: KitCat_RightFoot
+    3300026: KitCat_RightPaw
+    3300028: KitCat_Tail
+    4300000: KitCat_Clock1
+    4300002: KitCat_Clock2
+    4300004: KitCat_Body
+    4300006: KitCat_Tail
+    4300008: KitCat_RightFoot
+    4300010: KitCat_LeftFoot
+    4300012: KitCat_LeftPaw
+    4300014: KitCat_RightPaw
+    4300016: KitCat_Bowtie
+    4300018: KitCat_ClockFace
+    4300020: KitCat_ClockCenter
+    4300022: KitCat_Head
+    4300024: KitCat_Nose
+    4300026: KitCat_LeftEye
+    4300028: KitCat_RightEye
+    7400000: FullAnimation
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Body_MAT
+    second: {fileID: 2100000, guid: c818f1407930b9f408d72267e7862d2e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ClockFace_MAT
+    second: {fileID: 2100000, guid: a2d0a27d5d1b06947985b631a65d8797, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Details1_MAT
+    second: {fileID: 2100000, guid: e1a9e5f0f99cb344e83d534fbe2f659b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Eyes_MAT
+    second: {fileID: 2100000, guid: b5c82bbfc4bf8264bbec306e7d3c8c0c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Head_MAT
+    second: {fileID: 2100000, guid: c9ee04a42f2849e4b8cbcb81b4a51800, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: FullAnimation
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 540
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
